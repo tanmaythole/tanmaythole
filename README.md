@@ -117,7 +117,7 @@
 
 <br />
 
-|<img src="https://github-readme-stats.vercel.app/api?username=tanmaythole&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaythole"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=tanmaythole&&show_icons=true&count_private=true&theme=dark"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaythole&theme=dark"/>|
 |---|---|
 
 
