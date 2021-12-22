@@ -4,7 +4,7 @@
 👨‍🎓I am Tanmay Thole, currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 💻I am a **Full-Stack developer**.<br />
 🏆🥇I love **competitive programming**. I am **3-star⭐️** coder at Codechef.<br />
-📝✏️I write tech articles on **GeeksForGeeks.** <br />
+📝✏️I write tech articles on **GeeksForGeeks** & **Medium**. <br />
 
 <br />
 
