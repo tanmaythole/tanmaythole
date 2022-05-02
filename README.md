@@ -95,7 +95,7 @@
    </td>
    <td align="center"  width="96" height="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50" alt="Django" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="50" height="50" alt="Django" />
       </a>
       <br>Django
    </td>
