@@ -1,4 +1,4 @@
-# Hi there, I'm [Tanmay Thole!](https://tanmaythole.github.io/portfolio/)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm [Tanmay Thole!](https://tanmaythole.github.io/portfolio/)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 
 👨‍🎓I am Tanmay Thole, currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
