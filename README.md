@@ -1,4 +1,4 @@
-# <div align="center">Hi there, I'm [Tanmay Thole!](https://tanmaythole.github.io/portfolio/)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></div>
+# <div align="center">Hi there, I'm [Tanmay Thole!](https://tanmaythole.vercel.app)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></div>
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tanmaythole)
 
