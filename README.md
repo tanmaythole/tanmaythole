@@ -158,7 +158,7 @@
 <br />
 
 
-|<img src="https://github-readme-stats.vercel.app/api?username=tanmaythole&show_icons=true&locale=en&theme=dark" alt="tanmaythole" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaythole&theme=dark" alt="tanmaythole" />|
+|<img src="https://github-readme-stats.vercel.app/api?username=tanmaythole&show_icons=true&locale=en&theme=dark" alt="tanmaythole" />|<img src="https://streak-stats.demolab.com/?user=tanmaythole&theme=dark" alt="tanmaythole" />|
 |---|---|
 
 
