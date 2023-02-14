@@ -1,6 +1,5 @@
 # <div align="center">Hi there, I'm [Tanmay Thole!](https://tanmaythole.vercel.app)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></div>
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tanmaythole)
 
 - 🔭 I’m currently working as **Software Engineer at Josh Software Pvt. Ltd.**
 - 💻 I'm a passionate full-stack developer and UI/UX Enthusiast.
