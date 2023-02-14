@@ -3,7 +3,7 @@
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=tanmaythole)
 
 - 🔭 I’m currently working as **Software Engineer at Josh Software Pvt. Ltd.**
-- 💻 I'm passionate full-stack developer and UI/UX Enthusiast.
+- 💻 I'm a passionate full-stack developer and UI/UX Enthusiast.
 
 - 🌱 I’m exploring to collaborate on **Open source projects**.
 
