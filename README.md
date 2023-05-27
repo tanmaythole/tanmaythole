@@ -71,6 +71,12 @@
             <br>Django
         </td>
         <td align="center" width="96" height="96">
+            <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer"> 
+                <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="React Query" width="40" height="40"/> 
+            </a>
+            <br>React Query
+        </td>
+        <td align="center" width="96" height="96">
             <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
             </a>
@@ -106,14 +112,14 @@
             </a> 
             <br>Figma
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96" height="96">
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
             </a>
             <br>Bootstrap
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96" height="96">
             <a href="https://postman.com" target="_blank" rel="noreferrer"> 
                 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
