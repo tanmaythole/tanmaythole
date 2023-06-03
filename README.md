@@ -1,7 +1,7 @@
 # <div align="center">Hi there, I'm [Tanmay Thole!](https://tanmaythole.vercel.app)  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"></div>
 
 
-- 🔭 I’m currently working as **Software Engineer** at **Josh Software Pvt. Ltd.**
+- 🔭 I’m currently working as **Software Engineer** at **Josh Software Inc.**
 - 💻 I'm a passionate full-stack developer and UI/UX Enthusiast.
 
 - 🌱 I’m exploring to collaborate on **Open source projects**.
