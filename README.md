@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as **Software Engineer** at **Josh Software Inc.**
 - 💻 I'm a passionate full-stack developer and UI/UX Enthusiast.
 
-- 🌱 I’m exploring to collaborate on **Open source projects**.
+- 🌱 I’m exploring to contribute on **Open source projects**.
 
 - 📝 I write tech articles on [Medium](https://tanmaythole.medium.com).
 
