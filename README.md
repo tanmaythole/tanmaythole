@@ -167,8 +167,8 @@
 |---|---|
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaythole&show_icons=true&locale=en&layout=compact&theme=dark" alt="tanmaythole" />
-
+|<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmaythole&show_icons=true&locale=en&layout=compact&theme=dark" alt="tanmaythole" />|
+|---|
 ---
 <br />
 
